@@ -1,0 +1,1 @@
+This is a file created purposely to explain in full detials the importance of this project. It is to practice the "git init" command which intializes a git environment or role to any giving working directory at that point in time when the command is executed.
